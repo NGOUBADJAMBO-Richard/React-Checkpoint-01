@@ -1,0 +1,110 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* src/App.css */
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.card-body {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.card-title {
+  color: #343a40;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.card-text {
+  color: #495057;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.product-image img {
+  border-radius: 10px;
+  margin-bottom: 15px;
+  max-height: 300px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.product-price {
+  color: #28a745;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.product-description {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.message {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.message img {
+  border-radius: 50%;
+  margin-top: 10px;
+  max-height: 100px;
+  width: 100px;
+}
+
+.message h3 {
+  color: #007bff;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+

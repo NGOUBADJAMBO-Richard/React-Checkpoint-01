@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Product Name",
+        "price": 99.99,
+        "description": "This is a great product.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "altText": "Product Image"
+    },
+    {
+        "name": "Product Name",
+        "price": 99.99,
+        "description": "This is a great product.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "altText": "Product Image"
+    },
+    {
+        "name": "Product Name",
+        "price": 99.99,
+        "description": "This is a great product.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "altText": "Product Image"
+    },
+    {
+        "name": "Product Name",
+        "price": 99.99,
+        "description": "This is a great product.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "altText": "Product Image"
+    },
+    {
+        "name": "Product Name",
+        "price": 99.99,
+        "description": "This is a great product.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "altText": "Product Image"
+    },
+    {
+        "name": "Product Name",
+        "price": 99.99,
+        "description": "This is a great product.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "altText": "Product Image"
+    }
+]
